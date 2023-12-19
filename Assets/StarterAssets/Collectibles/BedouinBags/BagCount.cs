@@ -24,7 +24,7 @@ public class BagCount : MonoBehaviour
 
     private void UpdateCount()
     {
-        text.text = $"{count} / {60}";
+        text.text = $"{count} / {60} BAG";
     }
 
     // Public static method to reset the count

@@ -1,0 +1,11 @@
+# ninja log v5
+109	260	7245684614367806	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	501a25e2861e8f17
+261	567	7245684616443035	C:/Users/User/Related-Unity/Welcome To Jordan BITE/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y691435/obj/arm64-v8a/libswappywrapper.so	a56b7d000c285aa4
+62	657	7245684618236187	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	861dbb22f78acb24
+31	674	7245684618422911	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9a16153c234633b2
+75	742	7245684619105546	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	159d19e5d79c3851
+21	769	7245684619431196	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5fba52206d1367f0
+93	806	7245684619824324	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6a183e85868de854
+45	967	7245684621404186	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	18f2d2eb187fd0da
+1	989	7245684621610839	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2f274c4024682ccb
+989	1269	7245684623520413	C:/Users/User/Related-Unity/Welcome To Jordan BITE/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y691435/obj/arm64-v8a/libgame.so	367f2a0a83f03424
